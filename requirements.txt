@@ -1,0 +1,6 @@
+PyMuPDF==1.23.26
+matplotlib
+numpy
+pandas
+Requests==2.31.0
+spacy==3.7.4
