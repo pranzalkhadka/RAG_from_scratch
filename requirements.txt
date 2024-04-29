@@ -4,3 +4,4 @@ numpy
 pandas
 Requests==2.31.0
 spacy==3.7.4
+sentence_transformers
